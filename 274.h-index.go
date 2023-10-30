@@ -7,6 +7,9 @@ package lc
  * [274] H 指数
  */
 
+// @lcpr-template-start
+
+// @lcpr-template-end
 // @lc code=start
 func hIndex(citations []int) int {
 	// 答案最多只能到数组长度
